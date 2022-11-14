@@ -1,4 +1,4 @@
-     # Ostrich Team
+ # Ostrich Team
 
 <br/>
 
